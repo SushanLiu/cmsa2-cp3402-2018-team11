@@ -25,3 +25,6 @@ There is a mostly complete contact information section that was being worked on 
 
 Publishing Details
 
+Development of the site was done using three different stages, local development, a staging website and the final live website.
+
+Each member had an individual local development environment and had access to both the staging and live website.
